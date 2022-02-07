@@ -1,6 +1,6 @@
 # C 언어 배우기
 
-## 입문 안내
+## 활용 방법
 강의 웹사이트/동영상/도서 모두 다루는 범위는 비슷함.
 웹 사이트가 가장 간단하고, 도서가 가장 내용이 풍부한 대신 두꺼움. 책 읽는 것이 부담이 된다면 동영상을 듣는 것도 가능.
 
@@ -8,7 +8,7 @@
 간단한 예제라도 반드시 직접 만들어서 동작하는 것을 확인하는 과정이 필요함.
 
 
-### 초보자 용 강의 사이트
+## 초보자 용 강의 사이트
 간단한 예제들을 따라가면서 배울 수 있게 짜여져 있는데, 너무 간단하다는 것이 장점이자 단점.
 - [C 언어 기초](https://opentutorials.org/module/3921)
   + 27개 강의
@@ -17,7 +17,7 @@
 - [C 언어 강좌](https://www.memoengine.com/docs/c-language/)
   + 21개 강의
 
-### 초보자 용 동영상 강의
+## 초보자 용 동영상 강의
 - [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP)
 - [혼자 공부하는 C 언어 [이것이 C언어다 전면 개정판]](https://www.youtube.com/playlist?list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS)
   + 아래에 소개한 '혼자 공부하는 C 언어' 저자의 동영상 강의
