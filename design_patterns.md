@@ -56,6 +56,7 @@
   + 언어: ??
   + 소개:
     > 이 책은 디자인 패턴을 다룬 이론서입니다. 디자인 패턴의 기초적이고 전반적인 내용을 학습할 수 있습니다.
+    
     > 디자인 패턴을 다른 대표적인 고전
     > GoF(Gangs of Four) Design Patterns을 처음 소개한 책
     
@@ -119,9 +120,3 @@
     
   + 목차: [상세 >](./toc/S000001057705.md)
   + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788968482878.jpg)
-
-## 온라인 참고 사이트
-- Data Structures (https://www.hackerrank.com/domains/data-structures) 문제를 풀면서 공부하는 곳
-- Introduction to Data Structures (https://www.geeksforgeeks.org/introduction-to-data-structures/?ref=lbp) 백과사전 처럼 자료구조에 대해 찾아 볼 수 있는 곳
-- 내가 실전에서 사용하는 자료구조와 알고리즘 (https://news.hada.io/topic?id=2467) 외국의 경력 개발자가 실전에서 자료구조를 어떻게 활용했는지, 무엇이 중요한지 생각을 정리한 블로그를 번역하여 요약한 글
- 
