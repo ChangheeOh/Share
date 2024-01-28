@@ -95,3 +95,9 @@
     > 과학적인 접근 - 적절한 수학적 모델과 모델을 검증하는 경험적인 연구들을 제시하면서 성능에 대한 엄밀한 설명을 제시한다.
   + 목차: [상세 >](./toc/S000001792777.md)
   + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791160506761.jpg)
+
+## 온라인 참고 사이트
+- Data Structures (https://www.hackerrank.com/domains/data-structures) 문제를 풀면서 공부하는 곳
+- Introduction to Data Structures (https://www.geeksforgeeks.org/introduction-to-data-structures/?ref=lbp) 백과사전 처럼 자료구조에 대해 찾아 볼 수 있는 곳
+- Dictionary of Algorithms and Data Structures (https://xlinux.nist.gov/dads/) 자료구조와 알고리즘을 사전처럼 정리한 곳. 설명은 다소 딱딱함.
+- 내가 실전에서 사용하는 자료구조와 알고리즘 (https://news.hada.io/topic?id=2467) 외국의 경력 개발자가 실전에서 자료구조를 어떻게 활용했는지, 무엇이 중요한지 생각을 정리한 블로그를 번역하여 요약한 글
