@@ -2,9 +2,9 @@
 
 ## 입문
 
-- Hello Coding 알고리즘, 2017년/328쪽 (https://product.kyobobook.co.kr/detail/S000001057739)
+- Hello Coding 알고리즘, 2017년/328쪽 (https://product.kyobobook.co.kr/detail/S000001057739) [목차](./toc/S000001057739.md)
   ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788968483547.jpg)
-  - [목차](./toc/S000001057739.md)
+
   
 ## 초중급
 ### 국내 저자
