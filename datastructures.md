@@ -44,6 +44,14 @@
   + 목차: [상세 >](./toc/S000001743471.md)
   + ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156641780.jpg)
 
+- C++ 자료구조론 (https://product.kyobobook.co.kr/detail/S000001507333)
+  + 출판 시기: 2007년
+  + 분량:
+  + 언어: C++
+  + 소개:
+  + 목차: [상세 >](./toc/S000001507333.md)
+  ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788992649025.jpg)
+
 ### 번역서
 
 - 문제 해결력을 높이는 알고리즘과 자료 구조 (https://product.kyobobook.co.kr/detail/S000001834802)
