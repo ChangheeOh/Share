@@ -119,4 +119,9 @@
     
   + 목차: [상세 >](./toc/S000001057705.md)
   + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788968482878.jpg)
+
+## 온라인 참고 사이트
+- Data Structures (https://www.hackerrank.com/domains/data-structures) 문제를 풀면서 공부하는 곳
+- Introduction to Data Structures (https://www.geeksforgeeks.org/introduction-to-data-structures/?ref=lbp) 백과사전 처럼 자료구조에 대해 찾아 볼 수 있는 곳
+- 내가 실전에서 사용하는 자료구조와 알고리즘 (https://news.hada.io/topic?id=2467) 외국의 경력 개발자가 실전에서 자료구조를 어떻게 활용했는지, 무엇이 중요한지 생각을 정리한 블로그를 번역하여 요약한 글
  
