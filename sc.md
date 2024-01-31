@@ -13,3 +13,15 @@
     > 
   + 목차: [상세 >](./toc/S000001932753.md)
   + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189909284.jpg)
+
+- 컴퓨터 시스템 Computer Systems A Programmer's Perspective (https://product.kyobobook.co.kr/detail/S000001868716)
+  + 분량: 1024 쪽
+  + 언어: 제한 없음.
+  + 소개:
+    > 개발자 시각에서 이해할 수 있도록 설명한 컴퓨터 시스템에 대한 대표적인 이론서
+    > 컴퓨터 과학 분야의 거의 모든 추천 도서 목록에 올라와 있는 책
+    > 번역이 좋지 않다는 평들이 있어, 원서를 함께 보는 것이 필요할 수도 있음.
+
+    
+  + 목차: [상세 >](./toc/S000001868716.md)
+  + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791185475219.jpg)
