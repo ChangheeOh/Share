@@ -5,3 +5,4 @@
 - [EMS 예정 국가](./ems_not_ready.md)
 - [자료 구조 및 알고리즘](./datastructures.md)
 - [디자인 패턴](./design_patterns.md)
+- [컴퓨터 과학](./sc.md)
