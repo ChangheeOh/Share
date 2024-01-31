@@ -2,7 +2,7 @@
 
 ## 컴퓨터
 
-- 한 권으로 읽는 컴퓨터 구조와 프로그래밍 (https://product.kyobobook.co.kr/detail/S000001932753)
+- 한 권으로 읽는 컴퓨터 구조와 프로그래밍 The Secret Life of Programs (https://product.kyobobook.co.kr/detail/S000001932753)
   + 분량: 636 쪽
   + 언어: 제한 없음.
   + 소개:
@@ -25,3 +25,17 @@
     
   + 목차: [상세 >](./toc/S000001868716.md)
   + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791185475219.jpg)
+
+## 운영 체제 OS(Operating System)
+
+- 운영 체제:아주 쉬운 세 가지 이야기 2판 Operating systems : three easy pieces (https://product.kyobobook.co.kr/detail/S000001732402)
+  + 분량: 736 쪽
+  + 언어: 제한 없음.
+  + 소개:
+    > 컴퓨터의 운영 체제에 대해 소개하는 대표적인 이론서
+    > 컴퓨터 과학 분야의 거의 모든 추천 도서 목록에 올라와 있는 책
+    > 〈가상화〉, 〈병행성〉, 〈편영속성〉 등 운영체제에 대한 기초적이고 전반적인 내용이 수록되어 있다.
+
+    
+  + 목차: [상세 >](./toc/S000001732402.md)
+  + 표지: ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156007937.jpg)
