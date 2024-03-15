@@ -44,7 +44,6 @@
 
 ## 운영 체제 OS(Operating System)
 
-
 ![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156007937.jpg)
 - 운영 체제:아주 쉬운 세 가지 이야기 2판 Operating systems : three easy pieces (https://product.kyobobook.co.kr/detail/S000001732402)
   + 분량: 736 쪽
@@ -57,6 +56,20 @@
     
   + 목차: [상세 >](./toc/S000001732402.md)
 ---
+
+![책표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791186697054.jpg)
+- 리눅스 작동법 How Linux Works (https://product.kyobobook.co.kr/detail/S000001890789)
+  + 분량: 450 쪽
+  + 언어: 제한 없음.
+  + 소개:
+    > 운영체제의 내부 동작에 대해 알고 싶어하는 사람들에게 리눅스 내부 이면에 존재하는 개념들에 좀 더 접근하기 쉽게 도와주는 책이다.
+    > 책을 통해 리눅스가 부팅하는 방법, 부트 로더를 시작으로 init 구현(systemd, Upstart, System V)에 이르는 부팅 관련 정보, 커널이 장치, 프로세스, 장치 드라이버를 관리하는 방법, 네트워킹, 인터페이스, 방화벽과 서버가 동작하는 방법, 개발 툴들의 동작 원리와 공유 라이브러리와의 연관성, 효과적인 셸 스크립트 작성 방법 등을 배울 수 있을 것이다.
+    
+    
+  + 목차: [상세 >](./toc/S000001890789.md)
+  
+---
+
 
 ## Data Applications
  
