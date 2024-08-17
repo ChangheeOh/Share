@@ -104,3 +104,7 @@
     > 이 책에서 다루는 주제 : 합 · 점화식 · 정수 함수 · 초등 정수론 · 이항계수 · 생성함수 · 이산 확률 · 점근법   
   + 목차: [상세 >](./toc/S000001033059.md)
 ---
+
+
+## 기타
+- The Open Source Computer Science Degree (https://github.com/ForrestKnight/open-source-cs)
