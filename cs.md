@@ -108,3 +108,5 @@
 
 ## 기타
 - The Open Source Computer Science Degree (https://github.com/ForrestKnight/open-source-cs)
+- Open Source Society University (https://github.com/ossu/computer-science)
+  - Path to a free self-taught education in Computer Science!
