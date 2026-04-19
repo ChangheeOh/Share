@@ -106,3 +106,4 @@
 - Introduction to Data Structures (https://www.geeksforgeeks.org/introduction-to-data-structures/?ref=lbp) 백과사전 처럼 자료구조에 대해 찾아 볼 수 있는 곳
 - Dictionary of Algorithms and Data Structures (https://xlinux.nist.gov/dads/) 자료구조와 알고리즘을 사전처럼 정리한 곳. 설명은 다소 딱딱함.
 - 내가 실전에서 사용하는 자료구조와 알고리즘 (https://news.hada.io/topic?id=2467) 외국의 경력 개발자가 실전에서 자료구조를 어떻게 활용했는지, 무엇이 중요한지 생각을 정리한 블로그를 번역하여 요약한 글
+- Algorithms for Modern Hardware (https://en.algorithmica.org/hpc/)
